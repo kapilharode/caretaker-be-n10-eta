@@ -6,7 +6,7 @@
 
 <h1 align="center">Care Tracker Frontend</h1>
 <h3 align="center">
-	<a href="https://caretracker.netlify.app/">Live URL</a>
+	<a href="https://caretracker1.netlify.app/">Live URL</a>
 </h3>
   
 <!-- TABLE OF CONTENTS -->
